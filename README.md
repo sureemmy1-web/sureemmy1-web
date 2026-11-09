@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Osasu Emmanuel 👋
 
-<!--
-**sureemmy1-web/sureemmy1-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cybersecurity Student | Aspiring Cybersecurity Professional
 
-Here are some ideas to get you started:
+Welcome to my cybersecurity portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building my knowledge and practical skills in cybersecurity through the **TS Academy Cybersecurity Program**.
+
+I'm passionate about technology, cybersecurity, and continuous learning. My goal is to develop strong practical skills and eventually build a career in the cybersecurity field.
+
+### 🎯 Current Focus
+
+- 🔐 Cybersecurity fundamentals
+- 🌐 Networking
+- 🐧 Linux
+- 🛡️ Security operations
+- 🔎 Threat detection and analysis
+- 💻 Hands-on cybersecurity labs
+- 📚 Building practical security projects
+
+### 🚀 My Learning Journey
+
+I'm documenting my cybersecurity journey here, including:
+
+- Practical projects
+- Labs and exercises
+- CTF experiences
+- Security research
+- Learning notes
+- Certifications and achievements
+
+### 🧰 Tools & Technologies
+
+Currently learning and building experience with:
+
+- Git & GitHub
+- Linux
+- Networking tools
+- Wireshark
+- Cybersecurity frameworks and tools
+
+More technologies will be added as I progress.
+
+### 📈 My Goal
+
+To become a skilled cybersecurity professional by continuously learning, practicing, building projects, and solving real-world security problems.
+
+---
+
+📚 **Currently learning:** Cybersecurity  
+🎓 **Program:** TS Academy Cybersecurity Program  
+💻 **Portfolio:** This GitHub profile
+
+> "Learn. Practice. Build. Secure."
